@@ -20,6 +20,7 @@
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <li><a class="dropdown-item" href="../users/create.php">User</a></li>
+                        <li><a class="dropdown-item" href="../filemanager/create.php">File</a></li>
                     </ul>
                 </li>
 
@@ -27,8 +28,10 @@
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Manage
                     </a>
-                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown"> 
                         <li><a class="dropdown-item" href="../users/index.php">User</a></li>
+                        <li><a class="dropdown-item" href="../filemanager/index.php">File Manager</a></li>
+
                     </ul>
                 </li>
                 <li class="nav-item dropdown">
